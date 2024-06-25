@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
 	"name": "@destinydiver/tsconfig-example",
 	"version": "0.0.8",
+=======
+	"name": "@devshareacademy/tsconfig-example",
+	"version": "0.0.9",
+>>>>>>> 631203e105d1eda9bb0a80dbd86c22744b2bb122
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
 	"repository": {
